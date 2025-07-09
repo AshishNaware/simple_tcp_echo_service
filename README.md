@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to simple_tcp_echo_service 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="GitHub Release Version" src="https://img.shields.io/github/v/tag/AshishNaware/simple_tcp_echo_service?label=GitHub%20Version" />
+  <img alt="Docker Image Version" src="https://img.shields.io/docker/v/ashishnaware/simple_tcp_echo_service?label=Docker%20Version&sort=semver" />
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
